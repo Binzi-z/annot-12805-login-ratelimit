@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+alerts.json
+timeline.json
+findings.json
